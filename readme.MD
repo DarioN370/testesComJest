@@ -1,0 +1,2 @@
+🧪 Aprendendo Jest: Primeiros Passos
+## Bem-vindo ao meu laboratório de testes! Este repositório foi criado para documentar minha jornada aprendendo Jest, o framework de testes em JavaScript mais popular do mercado. O objetivo aqui é entender conceitos básicos, mocks e como garantir que meu código não quebre na primeira oportunidade.
