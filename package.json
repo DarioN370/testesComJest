@@ -1,0 +1,21 @@
+{
+  "name": "testescomjest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioN370/testesComJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DarioN370/testesComJest/issues"
+  },
+  "homepage": "https://github.com/DarioN370/testesComJest#readme"
+}
